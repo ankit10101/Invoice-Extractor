@@ -50,6 +50,10 @@ Then, open your web browser and navigate to the URL provided by Streamlit (usual
 3. Click the "SUBMIT" button to generate a response.
 4. The app will display the extracted information based on your question.
 
+## Demo
+
+[streamlit-app-2024-07-06-11-07-15.webm](https://github.com/ankit10101/Invoice-Extractor/assets/40112826/fce621f5-7cde-435c-9743-6cb01c6b1754)
+
 ## Dependencies
 
 - google-generativeai
