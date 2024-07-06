@@ -3,6 +3,10 @@
 The Invoice Extractor App is a Streamlit-based application that leverages Google's Generative AI (Gemini) to analyze invoice images.
 Users can upload invoice images and ask questions about their contents, with the AI providing intelligent responses based on the image data.
 
+## Demo
+
+[streamlit-app-2024-07-06-11-07-15.webm](https://github.com/ankit10101/Invoice-Extractor/assets/40112826/fce621f5-7cde-435c-9743-6cb01c6b1754)
+
 ## Features
 
 - Upload invoice images (JPG, JPEG, PNG)
@@ -49,10 +53,6 @@ Then, open your web browser and navigate to the URL provided by Streamlit (usual
 2. Enter your question about the invoice in the text input field.
 3. Click the "SUBMIT" button to generate a response.
 4. The app will display the extracted information based on your question.
-
-## Demo
-
-[streamlit-app-2024-07-06-11-07-15.webm](https://github.com/ankit10101/Invoice-Extractor/assets/40112826/fce621f5-7cde-435c-9743-6cb01c6b1754)
 
 ## Dependencies
 
